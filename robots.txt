@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://dragonchan85.github.io/takeabreath/sitemap.xml
+Sitemap: https://takeabreath.yesnomark.com/sitemap.xml
